@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+*{
+    color: darkgreen;
+    font-family: "Silkscreen";
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.bouton{
+    border-color: darkgreen;
+    background-color: black;
+    border: solid;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: auto;
+    margin-top: 25%;
+}
+#start{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.mort{
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+}
+
+.bouton a{
+    text-decoration: none;
+}
+
+ .bouton1{
+    border-color: darkgreen;
+    background-color: black;
+    border: solid;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+ .bouton2{
+    border-color: darkgreen;
+    background-color: black;
+    border: solid;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+ }
+
+
