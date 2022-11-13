@@ -1,0 +1,177 @@
+
+#index{
+    color: darkgreen;
+    font-family: "Silkscreen";
+    background-color: black;
+}
+
+#index .bouton{
+    font-family: "Silkscreen";
+    color: darkgreen;
+    border-color: darkgreen;
+    background-color: black;
+    
+}
+
+
+
+.page{
+    font-family: "ColdWar";
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.mort{
+    background-color: black;
+    color: darkgray;
+    font-family: "ColdWar";
+    
+}
+
+.mort h1{
+    color: crimson;
+    text-shadow: 2px 2px 2px crimson;
+}
+
+.win h1{
+    color: goldenrod;
+    text-shadow: 2px 2px 2px goldenrod;
+}
+
+#index .bouton a{
+    text-decoration: none;
+    color: darkgreen;
+}
+.page .bouton a{
+    text-decoration: none;
+    color: black;
+    font-family: "ColdWar";
+}
+.bouton{
+    background-color: rgb(200, 198, 198);
+    border-color: black;
+    border: solid;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    display:inline-block;
+	width:45%;
+    margin: auto;
+    margin-top: 25%;
+}
+.seul{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+
+.mort .bouton{
+    background-color: black;
+    border-color: darkgray;
+    color: darkgray;
+    font-family: "ColdWar";
+}
+
+.mort .bouton a{
+    text-decoration: none;
+    color: darkgray;
+}
+
+.page{
+    font-family: "ColdWar";
+}
+#page1{
+    background-image: url("images/villlepage1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+#page2{
+    background-image: url("images/foret.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+}
+
+#page3{
+    background-image: url("images/grotte.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkgray;
+}
+
+#page5{
+    background-image: url("images/fire.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+}
+
+#page9{
+    background-image: url("images/entreville.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+#page10{
+    background-image: url("images/metro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+}
+
+#page11{
+    background-image: url("images/armes.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: gray;
+   
+}
+#page13{
+    background-image: url("images/camp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkred;
+    font-weight: bold;
+}
+#page16{
+    background-image: url("images/lignemetro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+   
+}
+#page18{
+    background-image: url("images/camp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkred;
+    font-weight: bold; 
+   
+}
+#page19{
+    background-image: url("images/lignemetro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gray;
+   
+}
+#page21{
+    background-image: url("images/camp2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+   
+}
+
+@font-face{
+    font-family: "ColdWar";
+    src: url("fonts/ColdWar.ttf");
+}
+
